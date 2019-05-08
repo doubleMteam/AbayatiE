@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042939453119",
+    "firebase_url": "https://eabaya-db6e2.firebaseio.com",
+    "project_id": "eabaya-db6e2",
+    "storage_bucket": "eabaya-db6e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042939453119:android:0ffbf7877c4db1ef",
+        "android_client_info": {
+          "package_name": "com.mteam.eabaya2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042939453119-8pe1bnqidd53jv6b2kpc7hresmrj25n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mteam.eabaya2",
+            "certificate_hash": "314aa9677390a08a6c151bf5f56d7c12bc090a69"
+          }
+        },
+        {
+          "client_id": "1042939453119-1758vg9c0iooq0bb4o2rp10lj3rim5ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ6wnZsGtNtdDUKSZEl1qiamnnAe2kulo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042939453119-1758vg9c0iooq0bb4o2rp10lj3rim5ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
